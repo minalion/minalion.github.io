@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Atelier cuisine Mina",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,14 +25,15 @@
     "uniqCompNum": 30,
     "versionPublish": "3.12",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "cuisine\nnagoya\njapon\nwashoku\natelier\nsushi\nUNESCO\nbento\nizakaya\ndécouvert",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -112,7 +113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": " ",
@@ -154,7 +155,7 @@
             "showButtons": true
           },
           "title": "Atelier cuisine Mina",
-          "text": "Venez découvrir une partie primordiale de la culture japonaise : la cuisine. Celle-ci a récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un atelier afin de faire connaissance avec des produits typiques et souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne japonaise.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. Réservation obligatoire.",
+          "text": "Venez découvrir une partie primordiale de la culture japonaise : la cuisine. <br>Celle-ci a récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un cours afin de faire connaissance avec des produits typiques mais souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne japonaise.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. Réservation obligatoire.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>"
         },
         {
@@ -162,6 +163,17 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-text SPAN": {
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-5",
           "_params": {
             "imageSize": 50,
@@ -207,18 +219,7 @@
           },
           "title": "Mina",
           "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">Une bonne alimentation, de la bonne humeur, de l'authenticité pour un bon équilibre personnel.</span><br><br>J'ai des expériences dans le domaine culinaire aussi bien au Japon qu'à l'étranger. Je&nbsp;souhaite à présent transmettre mes connaissances de la cuisine japonaise traditionnelle à tous les amoureux de cet héritage et ce en toute simplicité.<br><br>J'ai la chance d'être également guide de l'Etat japonais (diplômée en français et en anglais).<br><br>Ma philosophie est de prendre&nbsp;du plaisir en mangeant local et de saison.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Ceci représente ni plus ni moins que la base du washoku!<br></span><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-o\" data-toolbar=\"-mbrBtnMove\">Pour en savoir plus<br>Washoku</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center"
-            },
-            ".mbr-section-text SPAN": {
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-o\" data-toolbar=\"-mbrBtnMove\">Pour en savoir plus<br>Washoku</a>"
         },
         {
           "_styles": {
