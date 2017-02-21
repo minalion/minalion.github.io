@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "en.html",
+    "currentPage": "index.html",
     "name": "Atelier cuisine Mina",
     "theme": {
       "name": "mobirise3",
@@ -366,8 +366,8 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Menu pré-opening<br>5000 yen&nbsp;<div>(4, 11, 18 et 25 mars)</div>",
-          "subtitle1": "un menu spécial pour l'ouverture!<br>Durée 1h30 - 2h",
+          "title1": "Menu pré-opening<br>￥6000 (taxes incl.)<div>(4, 11, 18 et 25 mars)</div>",
+          "subtitle1": "un menu spécial pour l'ouverture!<br>Durée environ 1h30",
           "caption1": "stimmered bamboo shoot<br>miso soup<br>seasonal leafs greens with karashi<br>mustard sauce<br>sushi (chirashi or maki)",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
@@ -924,7 +924,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13334.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
