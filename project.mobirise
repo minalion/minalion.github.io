@@ -364,9 +364,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Menu pré-opening&nbsp;<div>(4, 11, 18 et 25 mars)</div>",
-          "subtitle1": "un menu spécial pour l'ouverture!",
-          "caption1": "stimmered bamboo shoot<br>miso soup<br>seasonal leafz greens with karashi<br>mustard sauce<br>sushi (chirashi or maki)",
+          "title1": "Menu pré-opening<br>5000 yen&nbsp;<div>(4, 11, 18 et 25 mars)</div>",
+          "subtitle1": "un menu spécial pour l'ouverture!<br>Durée 1h30 - 2h",
+          "caption1": "stimmered bamboo shoot<br>miso soup<br>seasonal leafs greens with karashi<br>mustard sauce<br>sushi (chirashi or maki)",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
@@ -588,8 +588,8 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">xxx</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">xxx</a>",
           "label3": "HOT!",
-          "title3": "Soba",
-          "subtitle3": "fabrication",
+          "title3": "Cours de japonais",
+          "subtitle3": "cours de langue",
           "currency3": "",
           "price3": "0",
           "period3": "",
@@ -597,7 +597,7 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">xxx</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">xxx</a>",
           "label4": "HOT!",
-          "title4": "Kimono",
+          "title4": "Soba / Kimono",
           "subtitle4": "Description",
           "currency4": "",
           "price4": "0",
@@ -712,12 +712,12 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Formulaire de réservation",
+          "title": "Formulaire de contact",
           "subtitle": "Merci d'indiquer le menu que vous souhaitez découvrir.",
           "form": {
-            "action": "lionel.jaunin@gmail.com",
+            "action": "mina.jaunin@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Merci pour votre email!\nJe vous répondrai aussi vite que possible.\n\nMina"
             },
             "fields": {
               "name": {
