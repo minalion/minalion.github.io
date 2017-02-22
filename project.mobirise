@@ -26,7 +26,7 @@
     "versionPublish": "3.12",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-92404109-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -35,7 +35,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "cuisine\nnagoya\njapon\nwashoku\natelier\nsushi\nUNESCO\nbento\nizakaya\ndécouvert",
+        "meta_descr": "cuisine\nnagoya\njapon\nwashoku\natelier\nsushi\nUNESCO\nbento\nizakaya\ndécouvert\nmina",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -947,7 +947,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x133315.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x133320.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1117,7 +1117,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x39211.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x39216.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1133,7 +1133,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x40012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x40017.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1149,7 +1149,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x40013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x40018.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1165,7 +1165,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x40014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x40019.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
