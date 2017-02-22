@@ -811,7 +811,7 @@
               "src": "@PROJECT_PATH@/assets/images/01-170x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": " ",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
@@ -822,7 +822,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Mina</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-o\">WASHOKU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\" aria-expanded=\"false\">MENUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">IMAGES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-e\">EXPERIENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-d\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-b\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-b\">Accès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-p\">Contactez-nous</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#contacts2-b\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Français</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"en.html\">English</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-p\">RESERVATION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Mina</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-o\">WASHOKU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\" aria-expanded=\"false\">MENUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">IMAGES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-e\">EXPERIENCES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-b\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-b\">Accès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-p\">Contactez-nous</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#contacts2-b\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Français</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"en.html\">English</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-p\">RESERVATION</a></li>"
         },
         {
           "_name": "footer1",
@@ -867,7 +867,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x133314.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1037,7 +1037,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x3925.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x39210.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1053,7 +1053,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x40011.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1069,7 +1069,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x4007.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x40012.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1085,7 +1085,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x4008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x40013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
