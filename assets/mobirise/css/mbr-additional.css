@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -478,6 +479,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-1 .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
 #header2-5 .mbr-section-title {
   text-align: center;
 }
@@ -532,6 +537,7 @@ h6,
 #social-buttons4-c .btn-social {
   color: #fff;
 }
+
 #menu-1q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -600,7 +606,10 @@ h6,
   background-color: #ffffff;
 }
 #header1-1t .mbr-section-lead {
-  color: #b8312f;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
 }
 #header2-1u .mbr-section-title {
   text-align: center;

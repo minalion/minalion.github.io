@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Mina</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-o\">WASHOKU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\" aria-expanded=\"false\">MENUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Photos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-e\">EXPERIENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-d\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-b\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-b\">Accès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-p\">Contactez-nous</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#contacts2-b\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Français</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"en.html\">English</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-p\">RESERVATION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Mina</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-o\">WASHOKU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\" aria-expanded=\"false\">MENUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">IMAGES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-e\">EXPERIENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-d\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-b\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-b\">Accès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-p\">Contactez-nous</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#contacts2-b\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Français</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"en.html\">English</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-p\">RESERVATION</a></li>"
         },
         {
           "_tags": [
@@ -157,8 +157,15 @@
             "showButtons": true
           },
           "title": "Atelier cuisine Mina",
-          "text": "Venez découvrir une partie primordiale de la culture japonaise : la cuisine. <br>Celle-ci a récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un cours afin de faire connaissance avec des produits typiques mais souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne japonaise.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. Réservation obligatoire.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>"
+          "text": "Venez découvrir une partie primordiale de la culture japonaise : la cuisine. <br>Celle-ci a d'ailleurs récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un cours, à la maison, afin de faire connaissance avec des produits typiques mais souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne familiale japonaise dans une atmosphère détendue.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. Réservation obligatoire.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_tags": [
@@ -220,7 +227,7 @@
             }
           },
           "title": "Mina",
-          "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">Une bonne alimentation, de la bonne humeur, de l'authenticité pour un bon équilibre personnel.</span><br><br>J'ai des expériences dans le domaine culinaire aussi bien au Japon qu'à l'étranger. Je&nbsp;souhaite à présent transmettre mes connaissances de la cuisine japonaise traditionnelle à tous les amoureux de cet héritage et ce en toute simplicité.<br><br>J'ai la chance d'être également guide de l'Etat japonais (diplômée en français et en anglais).<br><br>Ma philosophie est de prendre&nbsp;du plaisir en mangeant local et de saison.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Ceci représente ni plus ni moins que la base du washoku!<br></span><br><br>",
+          "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">Une bonne alimentation, de la bonne humeur, de l'authenticité pour un bon équilibre personnel.</span><br><br>Après avoir eu des expériences dans le domaine culinaire aussi bien au Japon qu'à l'étranger, je&nbsp;souhaite à présent transmettre mes connaissances de la cuisine japonaise traditionnelle à tous les amoureux de cet héritage et ce en toute simplicité.<br><br>Mariée et mère d'un enfant, j'ai la chance d'être également guide de l'Etat japonais (diplômée en français et en anglais).<br><br>Ma philosophie est de prendre&nbsp;du plaisir en mangeant local et de saison.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Ceci représente ni plus ni moins que la base du washoku!<br></span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-o\" data-toolbar=\"-mbrBtnMove\">Pour en savoir plus<br>Washoku</a>"
         },
         {
@@ -368,7 +375,7 @@
           },
           "title1": "Menu pré-opening<br>￥6000 (taxes incl.)<div>(4, 11, 18 et 25 mars)</div>",
           "subtitle1": "un menu spécial pour l'ouverture!<br>Durée environ 1h30",
-          "caption1": "stimmered bamboo shoot<br>miso soup<br>seasonal leafs greens with karashi<br>mustard sauce<br>sushi (chirashi or maki)",
+          "caption1": "pousses de bambou bouillies<br>soupe miso<br>légumes saisonniés avec karashi (sauce moutarde)<br>sushi (chirashi ou maki)",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
@@ -400,7 +407,7 @@
           },
           "title3": "Menu izakaya&nbsp;<div>(dès le 1er avril)</div>",
           "subtitle3": "snack et alcool japonais",
-          "caption3": "Nihon-shû, whisky, bière, alcool de prune ou de pomme de terre et les plats qui vont avec tels que gyoza, edamam, okonomiyaki ou tepansaki.",
+          "caption3": "Dégustation d'alcool japonais (nihon-shû, whisky, bière, alcool de prune ou de pomme de terre) et les plats qui vont avec tels (gyoza, edamam, okonomiyaki ou tepansaki).",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
@@ -919,12 +926,21 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "header1-1t",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -940,13 +956,8 @@
             "showButtons": true
           },
           "title": "Atelier cuisine Mina",
-          "text": "Come and .....<br>Venez découvrir une partie primordiale de la culture japonaise : la cuisine. <br>Celle-ci a récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un cours afin de faire connaissance avec des produits typiques mais souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne japonaise.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. Réservation obligatoire.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#b8312f"
-            }
-          }
+          "text": "<br><span style=\"font-style: normal;\">Come and discover an essential part of the Japanese culture: the cooking which&nbsp;was recently registered as an intangible cultural heritage by the UNESCO.<br>We propose you to participate in a class, at our house, to get acquainted with products typical but often badly known outside Japan.<br>Get off the beaten track in learner of the authentic dishes of the family Japanese daily life in a relaxed atmosphere.<br>Our demonstrations require no particular technique. They are opened to all, child, too.<br><br>Fridays and Saturdays only. Compulsory reservation.</span><br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>"
         },
         {
           "_tags": [
