@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Atelier cuisine Mina",
         "meta_descr": "cuisine\nnagoya\njapon\nwashoku\natelier\nsushi\nUNESCO\nbento\nizakaya\ndécouvert\nmina",
         "header_custom": "",
         "footer_custom": "",
@@ -730,7 +730,7 @@
     },
     "en.html": {
       "settings": {
-        "title": "English",
+        "title": "Atelier cuisine Mina",
         "meta_descr": ""
       },
       "components": [
@@ -867,7 +867,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13339.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -883,7 +883,7 @@
             "showButtons": true
           },
           "title": "Atelier cuisine Mina",
-          "text": "<br><span style=\"font-style: normal; line-height: 1.5;\">Come and discover an essential part of the Japanese culture: the cooking which&nbsp;was recently registered as an intangible cultural heritage by the UNESCO.</span><span style=\"font-style: normal; line-height: 1.5;\"><br></span><span style=\"font-style: normal;\">We propose you to participate in a class, at our house, to get acquainted with products typical but often badly known outside Japan.<br>Get off the beaten track in learner of the authentic dishes Japanese home-style and daily life in a relaxed atmosphere.<br>Our demonstrations require no particular technique. They are opened to all, child, welcome.<br><br>Fridays and Saturdays only. </span><br><span style=\"font-style: normal;\">Reservation mandatory.</span><br>",
+          "text": "<br><span style=\"font-style: normal; line-height: 1.5;\">Come and discover an essential part of the Japanese culture: the cooking which&nbsp;was recently registered as an intangible cultural heritage by the UNESCO.</span><span style=\"font-style: normal; line-height: 1.5;\"><br></span><span style=\"font-style: normal;\">We propose you to participate in a class, at our house, to get acquainted with products typical but often hardly known outside Japan.<br>Get off the beaten track in learner of the authentic dishes Japanese home-style and daily life in a relaxed atmosphere.<br>Our demonstrations require no particular technique. They are opened to all, child, welcome.<br><br>Fridays and Saturdays only. </span><br><span style=\"font-style: normal;\">Reservation mandatory.</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"en.html#features1-1x\" data-toolbar=\"-mbrBtnMove\">Menus</a>"
         },
         {
@@ -1037,7 +1037,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x3920.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x3925.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1053,7 +1053,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1069,7 +1069,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x4002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x4007.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1085,7 +1085,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x4003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x4008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
