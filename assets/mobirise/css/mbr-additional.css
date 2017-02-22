@@ -611,6 +611,10 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
 }
+#header1-1t .mbr-section-lead SPAN {
+  text-align: center;
+  color: #ffffff;
+}
 #header2-1u .mbr-section-title {
   text-align: center;
 }

@@ -157,7 +157,7 @@
             "showButtons": true
           },
           "title": "Atelier cuisine Mina",
-          "text": "Venez découvrir une partie primordiale de la culture japonaise : la cuisine. <br>Celle-ci a d'ailleurs récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un cours, à la maison, afin de faire connaissance avec des produits typiques mais souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne familiale japonaise dans une atmosphère détendue.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. Réservation obligatoire.",
+          "text": "<span style=\"font-style: normal;\">Venez découvrir une partie primordiale de la culture japonaise : la cuisine. <br>Celle-ci a d'ailleurs récemment été inscrite au patrimoine culturel immatériel de l'UNESCO.<br>Nous vous proposons de participer à un cours, à la maison, afin de faire connaissance avec des produits typiques mais souvent mal connus en dehors du Japon.<br>Sortez des sentiers battus en apprenant des plats authentiques de la vie quotidienne familiale japonaise dans une atmosphère détendue.<br>Nos démonstrations ne requièrent aucune technique particulière. &nbsp;Elles sont ainsi ouvertes à tous,&nbsp;enfant compris.<br><br>Les vendredis et samedis uniquement. </span><br><span style=\"font-style: normal;\">Réservation obligatoire.</span>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>",
           "_styles": {
             ".mbr-section-lead": {
@@ -407,7 +407,7 @@
           },
           "title3": "Menu izakaya&nbsp;<div>(dès le 1er avril)</div>",
           "subtitle3": "snack et alcool japonais",
-          "caption3": "Dégustation d'alcool japonais (nihon-shû, whisky, bière, alcool de prune ou de pomme de terre) et les plats qui vont avec tels (gyoza, edamam, okonomiyaki ou tepansaki).",
+          "caption3": "Dégustation d'alcool japonais (nihon-shû, whisky, bière, alcool de prune ou de pomme de terre) et les plats qui vont avec tels (gyoza, edamame, okonomiyaki ou tepansaki).",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
@@ -732,7 +732,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Nom*"
               },
               "email": {
                 "title": "Email",
@@ -742,7 +742,7 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone*"
+                "customTitle": "Téléphone*"
               },
               "message": {
                 "title": "Message",
@@ -933,6 +933,10 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "16px"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "center",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1t",
@@ -940,7 +944,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x133310.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -956,7 +960,7 @@
             "showButtons": true
           },
           "title": "Atelier cuisine Mina",
-          "text": "<br><span style=\"font-style: normal;\">Come and discover an essential part of the Japanese culture: the cooking which&nbsp;was recently registered as an intangible cultural heritage by the UNESCO.<br>We propose you to participate in a class, at our house, to get acquainted with products typical but often badly known outside Japan.<br>Get off the beaten track in learner of the authentic dishes of the family Japanese daily life in a relaxed atmosphere.<br>Our demonstrations require no particular technique. They are opened to all, child, too.<br><br>Fridays and Saturdays only. Compulsory reservation.</span><br><br>",
+          "text": "<br><span style=\"font-style: normal;\">Come and discover an essential part of the Japanese culture: the cooking which&nbsp;was recently registered as an intangible cultural heritage by the UNESCO.</span><span style=\"font-style: normal;\"><br>We propose you to participate in a class, at our house, to get acquainted with products typical but often badly known outside Japan.<br>Get off the beaten track in learner of the authentic dishes of the family Japanese daily life in a relaxed atmosphere.<br>Our demonstrations require no particular technique. They are opened to all, child, too.<br><br>Fridays and Saturdays only. </span><br><span style=\"font-style: normal;\">Reservation mandatory.</span><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features1-f\" data-toolbar=\"-mbrBtnMove\">Menus</a>"
         },
         {
@@ -1110,7 +1114,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x3921.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x3926.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1126,7 +1130,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x4002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4007.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1136,13 +1140,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Menu découverte <br><i><span style=\"font-weight: normal;\">(</span><span style=\"font-weight: normal;\">dès le</span><span style=\"font-weight: normal;\"> 1er avril)</span></i>",
-          "subtitle2": "le repas complet",
-          "caption2": "Un menu complet composé, à choix, d'une viande ou d'un poisson ainsi que de plusieurs petits plats confectionnés à base de produits locaux et de saison. <br>tempura<br>omelette<br>chawamushi<br>gyoza<br><br>Sur demande il est aussi possible de confectionner une menu végétarien ou hallal.",
+          "title2": "Menu discovery&nbsp;<br><i><span style=\"font-weight: normal;\">(</span><span style=\"font-weight: normal;\">start</span><span style=\"font-weight: normal;\">&nbsp;1st April)</span></i>",
+          "subtitle2": "the complet meal",
+          "caption2": "A complete menu made up, in choice, of a meat or a fish as well as several small dishes made with seasonal local products. <br>Tempura<br>omelet<br>chawamushi<br>gyoza<br><br>On request it is also possible to make a vegetarian or hallal menu.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x4003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x4008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1152,13 +1156,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Menu izakaya&nbsp;<div>(dès le 1er avril)</div>",
-          "subtitle3": "snack et alcool japonais",
-          "caption3": "Dégustation d'alcool japonais (nihon-shû, whisky, bière, alcool de prune ou de pomme de terre) et les plats qui vont avec tels (gyoza, edamam, okonomiyaki ou tepansaki).",
+          "title3": "Menu izakaya&nbsp;<div>(start 1st April)</div>",
+          "subtitle3": "snack and Japanese alcohol",
+          "caption3": "Tasting of Japanese alcohol (nihon-shû, whisky, beer, plum or potato brandy) and the dishes which go along side (gyoza, edamame, okonomiyaki or tepansaki).<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x4009.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1168,9 +1172,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Bento&nbsp;<div>(dès le 1er avril)</div>",
-          "subtitle4": "la gamelle version niponne",
-          "caption4": "une boîte repas typique japonaise pour emporter lors de sortie.",
+          "title4": "Bento&nbsp;<div>(start 1st April)</div>",
+          "subtitle4": "the Japanese box",
+          "caption4": "A typical Japanese meal box to take out<br>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media5": {
             "image": {
@@ -1228,7 +1232,7 @@
           "form": {
             "action": "mina.jaunin@gmail.com",
             "alerts": {
-              "success": "Merci pour votre email!\nJe vous répondrai aussi vite que possible.\n\nMina"
+              "success": "Thank you for your Emaill!\nI will answer you as soon as possible.\n\nMina"
             },
             "fields": {
               "name": {
