@@ -620,3 +620,36 @@ h6,
 #header2-1u .mbr-section-text {
   text-align: left;
 }
+#header3-1v .mbr-section-title,
+#header3-1v .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-1x .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-1x .mbr-cards-col:nth-child(even) .card-title {
+  font-size: 20px;
+  color: #232323;
+}
+#features1-1x .mbr-cards-col:nth-child(even) .card-title SPAN {
+  font-size: 14px;
+  color: #c0a375;
+}
+#features1-1x .mbr-cards-col:nth-child(odd) .card-title {
+  color: #ffffff;
+}
+#features1-1x .mbr-cards-col:nth-child(even) .card-title DIV {
+  color: #c0a375;
+  font-size: 14px;
+}
+#features1-1x .mbr-cards-col:nth-child(odd) .card-title DIV {
+  color: #c0a375;
+  font-size: 14px;
+}
+#form1-1y .form-control-label {
+  color: #232323;
+}
+#social-buttons4-1z .mbr-section-title,
+#social-buttons4-1z .btn-social {
+  color: #fff;
+}

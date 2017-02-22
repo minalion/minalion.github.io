@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 67,
+    "uniqCompNum": 73,
     "versionPublish": "3.12",
     "favicon": "",
     "noImageResize": "",
@@ -940,7 +940,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13335.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1019,8 +1019,294 @@
             }
           },
           "title": "Mina",
-          "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">Une bonne alimentation, de la bonne humeur, de l'authenticité pour un bon équilibre personnel.</span><br><br>J'ai des expériences dans le domaine culinaire aussi bien au Japon qu'à l'étranger. Je&nbsp;souhaite à présent transmettre mes connaissances de la cuisine japonaise traditionnelle à tous les amoureux de cet héritage et ce en toute simplicité.<br><br>J'ai la chance d'être également guide de l'Etat japonais (diplômée en français et en anglais).<br><br>Ma philosophie est de prendre&nbsp;du plaisir en mangeant local et de saison.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Ceci représente ni plus ni moins que la base du washoku!<br></span><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-o\" data-toolbar=\"-mbrBtnMove\">Pour en savoir plus<br>Washoku</a>"
+          "text": "Tasty food, good mood, authenticity for a healthy personal balance.<br><br>After a couple of experiences in the culinary domain in Japan as well as abroad, I simply wish to transmit my knowledge of the traditional Japanese food to all the lovers of this heritage.<br><br>Married and mother of a child, I am lucky enough to be also a national Japanese guide (diploma in English and French).<br><br>My philosophy is to take some pleasure by eating seasonal and local foods.&nbsp;This represents excactly the basis of the washoku!<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-o\" data-toolbar=\"-mbrBtnMove\">More about<br>Washoku</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Washoku",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The food is a part of the culture of a country particulary in Japan where it occupies an essential place, &nbsp;Literally washoku \"wa\" means \"of Japanese origin\" or \"harmony\" and \" shoku \" means \"meal\". Itis registered on the intangible culture heritage since 2013.</p><p><br></p><p>Here is the description of the UNESCO<span style=\"font-size: 1.07rem; line-height: 1.5;\">:</span></p><blockquote>Washoku is a social practice based on a set of skills, knowledge, practice and traditions related to the production, processing, preparation and consumption of food. It is associated with an essential spirit of respect for nature that is closely related to the sustainable use of natural resources. The basic knowledge and the social and cultural characteristics associated with Washoku are typically seen during New Year celebrations. The Japanese make various preparations to welcome the deities of the incoming year, pounding rice cakes and preparing special meals and beautifully decorated dishes using fresh ingredients, each of which has a symbolic meaning. These dishes are served on special tableware and shared by family members or collectively among communities. The practice favours the consumption of various natural, locally sourced ingredients such as rice, fish, vegetables and edible wild plants. The basic knowledge and skills related to Washoku, such as the proper seasoning of home cooking, are passed down in the home at shared mealtimes. Grassroots groups, schoolteachers and cooking instructors also play a role in transmitting the knowledge and skills by means of formal and non-formal education or through practice.&nbsp;</blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Washoku embodies the following four caracteristics:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Diversity and freshness of ingredients, and respect for their inherent flavors</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- An exceptionally well-balanced and healthy diet</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- An expression of natural beauty and the changing seasons</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Close links with annual events</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The traditional Japanese meal consists of a soup and three dishes, literally \" ichi-ju san-sai \".</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A soup (ichi-ju), three side dishes (san-sai): a main course with meat, with fishes or with tofu (dough of milk of soya) and of two complementary dishes with varied vegetables. Ingredients can be marinated, boilled, simmered, grilled or raw.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The menu is accompanied with white rice and with a few marinated vegetables (tsukemono).</span></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "20px",
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
+              "font-size": "14px",
+              "color": "#c0a375"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title DIV": {
+              "color": "#c0a375",
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title DIV": {
+              "color": "#c0a375",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features1-1x",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x3921.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Menu pre-opening<br>￥6000 (taxes incl.)<div>(4th, 11th, 18t and 25th March)</div>",
+          "subtitle1": "a special menu for the grand opening!<br>Duration about 1h30",
+          "caption1": "simmered banboo shoot<br>miso soup<br>seasonal leafy greens with karashi (mustard sauce)<br>sushi (chirashi ou maki)",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x4002.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Menu découverte <br><i><span style=\"font-weight: normal;\">(</span><span style=\"font-weight: normal;\">dès le</span><span style=\"font-weight: normal;\"> 1er avril)</span></i>",
+          "subtitle2": "le repas complet",
+          "caption2": "Un menu complet composé, à choix, d'une viande ou d'un poisson ainsi que de plusieurs petits plats confectionnés à base de produits locaux et de saison. <br>tempura<br>omelette<br>chawamushi<br>gyoza<br><br>Sur demande il est aussi possible de confectionner une menu végétarien ou hallal.",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x4003.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Menu izakaya&nbsp;<div>(dès le 1er avril)</div>",
+          "subtitle3": "snack et alcool japonais",
+          "caption3": "Dégustation d'alcool japonais (nihon-shû, whisky, bière, alcool de prune ou de pomme de terre) et les plats qui vont avec tels (gyoza, edamam, okonomiyaki ou tepansaki).",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x4004.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Bento&nbsp;<div>(dès le 1er avril)</div>",
+          "subtitle4": "la gamelle version niponne",
+          "caption4": "une boîte repas typique japonaise pour emporter lors de sortie.",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-1y",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Contact Form",
+          "subtitle": "Please write down you desired menu",
+          "form": {
+            "action": "mina.jaunin@gmail.com",
+            "alerts": {
+              "success": "Merci pour votre email!\nJe vous répondrai aussi vite que possible.\n\nMina"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">RESERVATION</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "ピースキャピタル Kamisuge Nagoya\n",
+              "placeId": "ChIJb6zbPWBlA2ARyicyhfqIUo0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"  \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\" \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\" \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"  \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"  \" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     }
