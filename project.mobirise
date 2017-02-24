@@ -503,8 +503,21 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adresse</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br>About 15 minutes walk from Kamiyashiro station (Higashiyama line)<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
-          "text2": ""
+          "text1": "<br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br>15 min - Kamiyashiro station (Higashiyama line)<br><br>\n<strong><br></strong><br><strong>Contact</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
+          "text2": "",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -674,7 +687,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13331.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1012,8 +1025,21 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adresse</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br>About 15 minutes walk from Kamiyashiro station (Higashiyama line)<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
-          "text2": ""
+          "text1": "<br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br>15 min - Kamiyashiro station (Higashiyama line)<br><br>\n<strong><br></strong><br><strong>Contact</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
+          "text2": "",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",

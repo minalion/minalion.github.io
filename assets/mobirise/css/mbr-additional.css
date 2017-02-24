@@ -5,6 +5,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -521,10 +523,21 @@ h6,
 #form1-p .form-control-label {
   color: #232323;
 }
+#contacts2-b H2 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+#contacts2-b STRONG {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
 #social-buttons4-c .mbr-section-title,
 #social-buttons4-c .btn-social {
   color: #fff;
 }
+
+
 
 #menu-1q .hide-buttons .nav-btn {
   display: none !important;
@@ -643,6 +656,15 @@ h6,
 }
 #form1-1y .form-control-label {
   color: #232323;
+}
+#contacts2-b H2 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+#contacts2-b STRONG {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
 #social-buttons4-1z .mbr-section-title,
 #social-buttons4-1z .btn-social {
