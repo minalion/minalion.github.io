@@ -264,34 +264,6 @@
           "text": "<p>La nourriture fait partie de la culture d'un pays. Au Japon celle-ci occupe une place particulièrement importante, si tant que le washoku, littéralement \"wa\" d'origine japonaise ou harmonie et \"shoku\" repas, est inscrit au patrimoine immatériel de l'humanité depuis 2013.</p><p><br></p><p>L'UNESCO donne le descriptif suivant<span style=\"font-size: 1.07rem; line-height: 1.5;\">:</span></p><blockquote>Le washoku est une pratique sociale basée sur un ensemble de savoir-faire, de connaissances, de pratiques et de traditions liés à la production, au traitement, à la préparation et à la consommation d’aliments. Il est associé à un principe fondamental de respect de la nature étroitement lié à l’utilisation durable des ressources naturelles. Les connaissances de base ainsi que les caractéristiques sociales et culturelles associées au washoku sont généralement visibles lors des fêtes du Nouvel An. Les Japonais préparent divers mets pour accueillir les divinités de la nouvelle année : ils confectionnent des gâteaux de riz et préparent des plats spéciaux joliment décorés, à base d’ingrédients frais ayant chacun une signification symbolique. Ces plats sont servis dans une vaisselle spéciale et partagés par les membres de la famille ou de la communauté. Cette pratique favorise la consommation d’ingrédients d’origine naturelle et de production locale tels que le riz, le poisson, les légumes et des plantes sauvages comestibles. Les connaissances de base et les savoir-faire associés au washoku, comme le bon assaisonnement des plats cuisinés à la maison, se transmettent au sein du foyer lors du partage des repas. Les associations locales, les enseignants et les professeurs de cuisine jouent également un rôle dans la transmission des connaissances et du savoir-faire, par le biais de l’éducation formelle et non formelle ou par la pratique.</blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Le washoku repose sur les quatre caractéristiques suivantes :</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Un grand éventail d’ingrédients frais différents selon la saison et les régions et l’utilisation de leurs goûts naturels</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Une alimentation équilibrée et saine&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Une présentation soignée qui met en valeur la beauté de la nature&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Une étroite relation avec les événements annuels traditionnels&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Le repas traditionnel &nbsp;japonais est composé d'une soupe et de trois plats, littéralement \"ichi-ju san-sai\".</span></p><p>Une soupe (ichi-ju), trois accompagnements (san-sai) à savoir un plat principal à base de viande, de poissons ou de tofu (pâte de lait de soja) et de deux plats complémentaires à base de légumes variés. Les ingrédients peuvent être marinés, cuits à l'eau ou à la vapeur, grillés ou crus.</p><p>Le menu est accompagné de riz blanc et d'un peu de légumes marinés (tsukemono).</p><p><br></p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-l",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-20170131-1400x2488.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
@@ -363,11 +335,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x392.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "takenoko",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -379,7 +351,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc03673-600x903.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -395,7 +367,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -411,7 +383,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc03498b-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -449,171 +421,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x2437.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "IMAGE SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "BACKGROUND VIDEO",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "IMAGE SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "IMAGE SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-a",
-          "articleLayout": false
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "Autres expériences typiques japonaises",
-          "subtitle": "Vous êtes intéressé par d'autres expériences? Laissez-vous tenter par les propositions suivantes:",
-          "label1": "HOT!",
-          "title1": "Marché de poissons",
-          "subtitle1": "Visite du marché au centre de Nagoya",
-          "currency1": "",
-          "price1": "0",
-          "period1": "",
-          "description1": "xxx.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">xxx</span><br></li><li class=\"list-group-item\">xxx</li><li class=\"list-group-item\"><br></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">xxx</a>",
-          "label2": "HOT!",
-          "title2": "Fleurs stabilisées",
-          "subtitle2": "Description",
-          "currency2": "",
-          "price2": "0",
-          "period2": "",
-          "description2": "xxx.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">xxx</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">xxx</a>",
-          "label3": "HOT!",
-          "title3": "Cours de japonais",
-          "subtitle3": "cours de langue",
-          "currency3": "",
-          "price3": "0",
-          "period3": "",
-          "description3": "xxx",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">xxx</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">xxx</a>",
-          "label4": "HOT!",
-          "title4": "Soba / Kimono",
-          "subtitle4": "Description",
-          "currency4": "",
-          "price4": "0",
-          "period4": "",
-          "description4": "xxx.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">xxx</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">xxx</a>"
         },
         {
           "_tags": [
@@ -696,7 +503,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adresse</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
+          "text1": "<strong>Adresse</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br>About 15 minutes walk from Kamiyashiro station (Higashiyama line)<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
           "text2": ""
         },
         {
@@ -867,7 +674,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x133314.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1037,7 +844,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x39210.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1053,7 +860,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x40011.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc03673-600x903.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1069,7 +876,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x40012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1085,7 +892,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"en.html#form1-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x40013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc03498b-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1205,7 +1012,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adresse</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
+          "text1": "<strong>Adresse</strong><br>\nPeace Capital<br>\nKamisuge 2-1112<br>Nagoya<br><br>About 15 minutes walk from Kamiyashiro station (Higashiyama line)<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mina.jaunin@gmail.com<br>\nPhone: (0081)&nbsp;<br>",
           "text2": ""
         },
         {
