@@ -278,7 +278,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Mobirise."
+          "text": "."
         },
         {
           "_tags": [
@@ -659,7 +659,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Mobirise."
+          "text": "."
         },
         {
           "_tags": [
@@ -687,7 +687,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13332.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
